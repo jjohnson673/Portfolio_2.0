@@ -40,7 +40,7 @@
     }
   }
   
-  /* ================ Medium Device Media Queries ================= */
+  /* ================ Small Device Media Queries ================= */
   @media screen and (max-width: 600px) {
     .portfolio__container {
       grid-template-columns: 1fr;

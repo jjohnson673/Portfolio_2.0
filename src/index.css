@@ -60,7 +60,7 @@ h1 {
 }
 
 section {
-  margin-top: 19rem;
+  margin-top: 3rem;
 }
 
 section > h2,
@@ -121,9 +121,10 @@ img {
     width: var(--container-width-md);
   }
 
-  section {
-    margin-top: 6rem;
-  }
+
+ section {
+    margin-top: 23rem;
+  } 
 }
 
 /* ================ Small Device Media Queries ================= */

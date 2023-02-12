@@ -4,6 +4,11 @@
     grid-template-columns: 30% 58%;
     gap: 12%;
   }
+
+  .contact{
+    top: -3rem;
+    position: relative;
+  }
   
   .contact__options {
     display: flex;

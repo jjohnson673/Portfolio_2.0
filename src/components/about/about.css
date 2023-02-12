@@ -6,8 +6,8 @@
   
 
 .about {
-  top: 12rem;
-  position: absolute;
+  top: -27rem;
+  position: relative;
 }
 
   .about__me {
@@ -65,7 +65,10 @@
       margin: 0 auto 3rem;
     }
   
-  
+    .about{
+      margin-top: 23rem;
+    }
+
     .about__content {
       text-align: center;
     }

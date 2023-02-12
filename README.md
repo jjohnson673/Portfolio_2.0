@@ -55,7 +55,7 @@ npm run deploy
 ## Deployed Site
 <a href="https://jjohnson673.github.io/Portfolio_2.0/" target="_blank"  rel="noreferrer">Click here to view my deployed portfolio!</a>
 
-![My Portfolio](./src/assets/portfolio_new.png)
+![My Portfolio](./src/assets/portfolio_pic.png)
 
 ## License 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>

@@ -5,7 +5,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- ['Deployed Site'](#deployed-site)
+- [Deployed Site](#deployed-site)
 - [License](#license)
 - [Questions](#questions)
 

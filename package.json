@@ -7,7 +7,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -49,5 +51,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://jjohnson673.github.io/Portfolio_2.0/"
+  "homepage": "https://jjohnson673.github.io/Portfolio_2.0/",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }

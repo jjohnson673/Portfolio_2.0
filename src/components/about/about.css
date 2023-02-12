@@ -4,6 +4,12 @@
     gap: 15%;
   }
   
+
+.about {
+  top: 12rem;
+  position: absolute;
+}
+
   .about__me {
     width: 100%;
     aspect-ratio: 1/1;

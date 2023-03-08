@@ -3,7 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/FullstacksCafe.png'
 import IMG2 from '../../assets/BrewsNChews.png'
 import IMG3 from '../../assets/socialnetworkAPI.png'
-import IMG4 from '../../assets/notetaker.png'
+import IMG4 from '../../assets/get_moving_homepage.png'
 import IMG5 from '../../assets/workdayscheduler.png'
 import IMG6 from '../../assets/teamgenerator.png'
 
@@ -33,9 +33,9 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: 'Note Taking Application using Express.js',
-    github: 'https://github.com/jjohnson673/Note-Taker',
-    demo: 'https://damp-tundra-43822.herokuapp.com/'
+    title: 'Get Moving! A Moving Checklist App',
+    github: 'https://github.com/jicard/Project-3-Repo',
+    demo: 'https://projectthreemern.herokuapp.com/'
   },
   {
     id: 5,

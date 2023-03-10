@@ -63,4 +63,4 @@ This project is licensed under MIT, for more information please visit [this webs
 
 ## Contact
 
-For any questions, please contact me at jkjohnson673@gmail.com
+For any questions, please email me at jkjohnson673@gmail.com

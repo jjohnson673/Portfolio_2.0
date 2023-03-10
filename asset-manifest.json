@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio_2.0/static/css/main.807159cf.css",
+    "main.js": "/Portfolio_2.0/static/js/main.850434f0.js",
+    "static/media/bkgd2.png": "/Portfolio_2.0/static/media/bkgd2.7be23b2d20551d0c3bcd.png",
+    "static/media/BrewsNChews.png": "/Portfolio_2.0/static/media/BrewsNChews.7060d1558642a9515a6c.png",
+    "static/media/FullstacksCafe.png": "/Portfolio_2.0/static/media/FullstacksCafe.026299e85631cb8d2ba9.png",
+    "static/media/get_moving_homepage.png": "/Portfolio_2.0/static/media/get_moving_homepage.2b5bdc35b8295e5d47ad.png",
+    "static/media/teamgenerator.png": "/Portfolio_2.0/static/media/teamgenerator.1c78863e1d36baa6120e.png",
+    "static/media/Julia_Johnson_Resume 2023.pdf": "/Portfolio_2.0/static/media/Julia_Johnson_Resume 2023.c8675acb66db3e40df7e.pdf",
+    "static/media/headshot1.png": "/Portfolio_2.0/static/media/headshot1.4598b94bcd1ab82b62e5.png",
+    "static/media/socialnetworkAPI.png": "/Portfolio_2.0/static/media/socialnetworkAPI.d5e975c38b477d3306f7.png",
+    "static/media/workdayscheduler.png": "/Portfolio_2.0/static/media/workdayscheduler.b7a125d5d86513c8ee5d.png",
+    "index.html": "/Portfolio_2.0/index.html",
+    "main.807159cf.css.map": "/Portfolio_2.0/static/css/main.807159cf.css.map",
+    "main.850434f0.js.map": "/Portfolio_2.0/static/js/main.850434f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.807159cf.css",
+    "static/js/main.850434f0.js"
+  ]
+}
